@@ -10,7 +10,7 @@
     "gulp-concat": "^2.2.0",
     "gulp-minify-css": "^1.2.4",
     "gulp-rename": "^1.2.0",
-    "gulp-sass": "^3.0.0"
+    "gulp-sass": "^4.0.1"
   },
   "devDependencies": {
     "bower": "^1.8.2",
